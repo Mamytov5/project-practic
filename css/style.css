@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+a{
+    text-decoration: none;
+    margin: 0 20px;
+    color: brown;
+}
+.header{
+    padding: 30px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#header{
+    height: 50px;display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #817f7f;
+}
